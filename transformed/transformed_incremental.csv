@@ -1,0 +1,11 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region,total_price,customer_tier
+101,Alice,Laptop,0.0,900.0,2024-05-09,Central,0.0,Bronze
+102,0,Laptop,1.0,300.0,2024-05-07,Central,300.0,Bronze
+103,0,Laptop,1.0,600.0,2024-05-04,Central,600.0,Silver
+104,0,Tablet,0.0,300.0,2024-05-26,Central,0.0,Bronze
+105,Heidi,Tablet,2.0,600.0,2024-05-21,North,1200.0,Gold
+106,0,Laptop,2.0,600.0,2024-05-18,Central,1200.0,Gold
+107,0,Tablet,1.0,600.0,2024-05-13,Central,600.0,Silver
+108,0,Laptop,0.0,600.0,2024-05-11,0,0.0,Bronze
+109,Grace,Laptop,2.0,600.0,2024-05-29,Central,1200.0,Gold
+110,Heidi,Phone,0.0,900.0,2024-05-24,0,0.0,Bronze
